@@ -1,0 +1,12 @@
+# Site settings
+title: I <3 JavaScript
+email: ankeet.maini@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Mostly on front end development, my failures with it and learnings.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ankeetmaini.github.io" # the base hostname & protocol for your site
+twitter_username: ankeetmaini
+github_username:  ankeetmaini
+
+# Build settings
+markdown: kramdown
