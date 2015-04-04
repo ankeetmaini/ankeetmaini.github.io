@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: broccolijs build javascript
+tags: broccolijs build javascript
 ---
 
 Broccoli is an awesome building tool, it can build, serve your front end app and save you a lot of headache. **[Source Code] (https://github.com/ankeetmaini/my-broccoli)**
