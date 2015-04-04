@@ -9,6 +9,4 @@ twitter_username: ankeetmaini
 github_username:  ankeetmaini
 
 # Build settings
-markdown: kramdown
-kramdown:
-  input: GFM
+markdown: redcarpet
