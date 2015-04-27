@@ -1,4 +1,5 @@
 ---
+title: 'Setting up Broccoli in your JavaScript Project'
 layout: post
 tags: broccolijs build javascript
 ---
